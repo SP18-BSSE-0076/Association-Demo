@@ -1,6 +1,6 @@
 public class FirstClass
 {
-    String firstName;       //field
+    String firstName;       
     
     SecondClass s;         // 2nd class object declare in 1st class
     
